@@ -1,0 +1,11 @@
+
+<!--Frame Work-->
+<body></body>
+<link rel="stylesheet" href="https://snapforks.github.io/assets/css/style.css">
+<script src="https://snapforks.github.io/assets/js/page.js"></script>
+<script>
+  template(
+    'Install SnapForks Desktop',
+    '<center><h1>Install SnapForks Desktop</h1></center>',
+    'SnapForks is now an windows exe app! Thanks to programeruser2 we now have an app. It will still require you to be connected to the inernet. <a href="https://github.com/SnapForks/snapforks-desktop/releases/tag/1.1.0">Install Now!</a> '
+  );</script>
