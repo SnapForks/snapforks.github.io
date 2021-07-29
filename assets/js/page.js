@@ -10,5 +10,5 @@ var template = function(title, banner, content) {
   }else{
   document.body.innerHTML += '<div class="header">'+banner+'</div> <div class="content">'+content+'</div>'
   }
-  document.body.innerHTML += '<div class="footer"> © 2020 SnapForks<br><br> Snap! is licensed under the terms of GNU General Public License v3.0. <section> <h3>Social</h3> <a href="https://github.com/SnapForks">Github <i class="ri-github-fill r-do"></i></a> <br> <a href="#">The Snap! Forums</a> </section> <section> <h3>Pages</h3> <a href="run">Player</a> <br> <a href="install">Install</a> <br> <a href="status">Status</a> <br> <a href="credits">Credits</a> </section> </div> </body> </html>'
+  document.body.innerHTML += '<div class="footer"> © 2021 SnapForks<br><br> Snap! is licensed under the terms of GNU General Public License v3.0. <section> <h3>Social</h3> <a href="https://github.com/SnapForks">Github <i class="ri-github-fill r-do"></i></a> <br> <a href="https://forum.snap.berkeley.edu/t/snapforks-official-part-2">The Snap! Forums</a> </section> <section> <h3>Pages</h3> <a href="run">Player</a> <br> <a href="install">Install</a> <br> <a href="status">Status</a> <br> <a href="credits">Credits</a> </section> </div> </body> </html>'
 }
