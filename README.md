@@ -2,7 +2,9 @@
 Hey! Did you notice that the website has a new design!
 
 I may of worked a little to hard on the website. But I'm proud of it
-## Setup
+
+It uses a javascript template to build the webpages, so the pages are easy to manage.
+## Constop Setup
 ### Copy files
 ```css
 copy :==> snapforks.github.io;
