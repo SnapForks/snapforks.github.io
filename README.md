@@ -13,3 +13,8 @@ copy :==> snapforks.github.io;
 ```css
 launch :==> current files;
 ```
+### Carry cdn
+```css
+carry :==> //assets/cdn/*;
+carry : apply ==> last known carry;
+```
